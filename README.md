@@ -7,7 +7,7 @@ The information in the database file attached here has results from a survey Jef
 * Do they like similar or dissimilar music?
 * How many of them live in each state?
 
-One warning: these are real people, and real people don't always provide the easiest data to work with. Get ready for typos, unexpected blanks, and outright lies (Max, for example, isn't 100 years old).
+One warning: these are real people, and real people don't always provide the easiest data to work with. Get ready for typos, unexpected blanks, and outright silliness (Max, for example, isn't 100 years old).
 
 In the challenge.rb file, Jeff has written some questions he has. Use your knowledge of arrays and hashes to get at the information asked for in each of the 9 challenges.
 
