@@ -52,4 +52,4 @@ require_relative 'database.rb'
 
 
 
-# 9. Identify anyone on the list who has no common interests (bands or shows) with anyone else.
+# 9. Identify anyone on the list who has no common interests (bands or shows) with anyone else. Print their names.
