@@ -19,7 +19,7 @@ If you already have a good idea of how to start this based on previous labs, go 
 <details>
   <summary> If you're struggling to get started, click here for some tips </summary>
 
-  Try to get a feel for the shape of the data by adding the three puts statements below to the challenge.rb file:
+  #### Try to get a feel for the shape of the data by adding the three puts statements below to the challenge.rb file:
 
   ```Ruby
   require_relative 'database.rb'
